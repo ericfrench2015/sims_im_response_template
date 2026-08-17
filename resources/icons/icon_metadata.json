@@ -1,0 +1,1864 @@
+[
+  {
+    "rId": "rId5",
+    "file": "image5.png",
+    "description": [
+      "Access"
+    ],
+    "slide_number": 1
+  },
+  {
+    "rId": "rId3",
+    "file": "image3.png",
+    "description": [
+      "Access"
+    ],
+    "slide_number": 1
+  },
+  {
+    "rId": "rId4",
+    "file": "image4.png",
+    "description": [
+      "Access"
+    ],
+    "slide_number": 1
+  },
+  {
+    "rId": "rId6",
+    "file": "image6.png",
+    "description": [
+      "Affected population"
+    ],
+    "slide_number": 1
+  },
+  {
+    "rId": "rId7",
+    "file": "image7.png",
+    "description": [
+      "Africa"
+    ],
+    "slide_number": 1
+  },
+  {
+    "rId": "rId3",
+    "file": "image8.png",
+    "description": [
+      "Aftershock",
+      "Earthquake"
+    ],
+    "slide_number": 2
+  },
+  {
+    "rId": "rId4",
+    "file": "image9.png",
+    "description": [
+      "Air pollution"
+    ],
+    "slide_number": 2
+  },
+  {
+    "rId": "rId5",
+    "file": "image10.png",
+    "description": [
+      "Airdrop"
+    ],
+    "slide_number": 2
+  },
+  {
+    "rId": "rId6",
+    "file": "image11.png",
+    "description": [
+      "Airplane"
+    ],
+    "slide_number": 2
+  },
+  {
+    "rId": "rId7",
+    "file": "image12.png",
+    "description": [
+      "Allergy"
+    ],
+    "slide_number": 2
+  },
+  {
+    "rId": "rId3",
+    "file": "image13.png",
+    "description": [
+      "Americas"
+    ],
+    "slide_number": 3
+  },
+  {
+    "rId": "rId4",
+    "file": "image14.png",
+    "description": [
+      "Asia Pacific"
+    ],
+    "slide_number": 3
+  },
+  {
+    "rId": "rId5",
+    "file": "image15.png",
+    "description": [
+      "Budget",
+      "finance",
+      "audit",
+      "appeal"
+    ],
+    "slide_number": 3
+  },
+  {
+    "rId": "rId6",
+    "file": "image16.png",
+    "description": [
+      "Arrest"
+    ],
+    "slide_number": 3
+  },
+  {
+    "rId": "rId7",
+    "file": "image17.png",
+    "description": [
+      "Avalanche"
+    ],
+    "slide_number": 3
+  },
+  {
+    "rId": "rId3",
+    "file": "image18.png",
+    "description": [
+      "Bicycle"
+    ],
+    "slide_number": 4
+  },
+  {
+    "rId": "rId4",
+    "file": "image19.png",
+    "description": [
+      "Biological Hazard"
+    ],
+    "slide_number": 4
+  },
+  {
+    "rId": "rId5",
+    "file": "image20.png",
+    "description": [
+      "Blind",
+      "vision-impairment"
+    ],
+    "slide_number": 4
+  },
+  {
+    "rId": "rId6",
+    "file": "image21.png",
+    "description": [
+      "Blizzard",
+      "winter"
+    ],
+    "slide_number": 4
+  },
+  {
+    "rId": "rId7",
+    "file": "image22.png",
+    "description": [
+      "Blood donation"
+    ],
+    "slide_number": 4
+  },
+  {
+    "rId": "rId3",
+    "file": "image23.png",
+    "description": [
+      "Brain",
+      "mental health",
+      "psychosocial"
+    ],
+    "slide_number": 5
+  },
+  {
+    "rId": "rId4",
+    "file": "image24.png",
+    "description": [
+      "Bus"
+    ],
+    "slide_number": 5
+  },
+  {
+    "rId": "rId5",
+    "file": "image25.png",
+    "description": [
+      "Calendar",
+      "date",
+      "timeline"
+    ],
+    "slide_number": 5
+  },
+  {
+    "rId": "rId6",
+    "file": "image26.png",
+    "description": [
+      "Call tracing",
+      "mobile"
+    ],
+    "slide_number": 5
+  },
+  {
+    "rId": "rId7",
+    "file": "image27.png",
+    "description": [
+      "Car",
+      "transportation"
+    ],
+    "slide_number": 5
+  },
+  {
+    "rId": "rId3",
+    "file": "image28.png",
+    "description": [
+      "Cash programme",
+      "CVA",
+      "ATM card"
+    ],
+    "slide_number": 6
+  },
+  {
+    "rId": "rId4",
+    "file": "image29.png",
+    "description": [
+      "Chemical hazard"
+    ],
+    "slide_number": 6
+  },
+  {
+    "rId": "rId5",
+    "file": "image30.png",
+    "description": [
+      "Child with reduced mobility"
+    ],
+    "slide_number": 6
+  },
+  {
+    "rId": "rId6",
+    "file": "image31.png",
+    "description": [
+      "Clean, safe drinking water"
+    ],
+    "slide_number": 6
+  },
+  {
+    "rId": "rId7",
+    "file": "image32.png",
+    "description": [
+      "CO2 emissions"
+    ],
+    "slide_number": 6
+  },
+  {
+    "rId": "rId3",
+    "file": "image33.png",
+    "description": [
+      "CO2 emissions"
+    ],
+    "slide_number": 7
+  },
+  {
+    "rId": "rId4",
+    "file": "image34.png",
+    "description": [
+      "Cold wave",
+      "winter",
+      "winterization"
+    ],
+    "slide_number": 7
+  },
+  {
+    "rId": "rId5",
+    "file": "image35.png",
+    "description": [
+      "Community engagement",
+      "CEA"
+    ],
+    "slide_number": 7
+  },
+  {
+    "rId": "rId6",
+    "file": "image36.png",
+    "description": [
+      "Conflict",
+      "missile",
+      "war"
+    ],
+    "slide_number": 7
+  },
+  {
+    "rId": "rId7",
+    "file": "image37.png",
+    "description": [
+      "Contaminated food"
+    ],
+    "slide_number": 7
+  },
+  {
+    "rId": "rId3",
+    "file": "image38.png",
+    "description": [
+      "Contraception",
+      "family planning",
+      "reproductive health"
+    ],
+    "slide_number": 8
+  },
+  {
+    "rId": "rId4",
+    "file": "image39.png",
+    "description": [
+      "CV",
+      "document",
+      "profile"
+    ],
+    "slide_number": 8
+  },
+  {
+    "rId": "rId5",
+    "file": "image40.png",
+    "description": [
+      "CV",
+      "document",
+      "profile"
+    ],
+    "slide_number": 8
+  },
+  {
+    "rId": "rId6",
+    "file": "image41.png",
+    "description": [
+      "Data analysis",
+      "IM",
+      "PMER"
+    ],
+    "slide_number": 8
+  },
+  {
+    "rId": "rId7",
+    "file": "image42.png",
+    "description": [
+      "Dead"
+    ],
+    "slide_number": 8
+  },
+  {
+    "rId": "rId3",
+    "file": "image43.png",
+    "description": [
+      "Deaf",
+      "hearing impairment"
+    ],
+    "slide_number": 9
+  },
+  {
+    "rId": "rId4",
+    "file": "image44.png",
+    "description": [
+      "Delivery",
+      "stock",
+      "warehouse",
+      "inventory"
+    ],
+    "slide_number": 9
+  },
+  {
+    "rId": "rId5",
+    "file": "image45.png",
+    "description": [
+      "Dignity kit",
+      "relief"
+    ],
+    "slide_number": 9
+  },
+  {
+    "rId": "rId6",
+    "file": "image46.png",
+    "description": [
+      "Dignity",
+      "person",
+      "empower"
+    ],
+    "slide_number": 9
+  },
+  {
+    "rId": "rId7",
+    "file": "image47.png",
+    "description": [
+      "Dirty contaminated water"
+    ],
+    "slide_number": 9
+  },
+  {
+    "rId": "rId3",
+    "file": "image48.png",
+    "description": [
+      "Disaster preparedness",
+      "natural disaster"
+    ],
+    "slide_number": 10
+  },
+  {
+    "rId": "rId4",
+    "file": "image49.png",
+    "description": [
+      "Disaster risk reduction",
+      "umbrella"
+    ],
+    "slide_number": 10
+  },
+  {
+    "rId": "rId5",
+    "file": "image50.png",
+    "description": [
+      "Displacement",
+      "migration"
+    ],
+    "slide_number": 10
+  },
+  {
+    "rId": "rId6",
+    "file": "image51.png",
+    "description": [
+      "Displacement",
+      "migration"
+    ],
+    "slide_number": 10
+  },
+  {
+    "rId": "rId7",
+    "file": "image52.png",
+    "description": [
+      "Documents",
+      "report"
+    ],
+    "slide_number": 10
+  },
+  {
+    "rId": "rId3",
+    "file": "image53.png",
+    "description": [
+      "Donation"
+    ],
+    "slide_number": 11
+  },
+  {
+    "rId": "rId4",
+    "file": "image54.png",
+    "description": [
+      "Donation"
+    ],
+    "slide_number": 11
+  },
+  {
+    "rId": "rId5",
+    "file": "image55.png",
+    "description": [
+      "Donate",
+      "kindness"
+    ],
+    "slide_number": 11
+  },
+  {
+    "rId": "rId6",
+    "file": "image56.png",
+    "description": [
+      "Download"
+    ],
+    "slide_number": 11
+  },
+  {
+    "rId": "rId7",
+    "file": "image57.png",
+    "description": [
+      "DREF"
+    ],
+    "slide_number": 11
+  },
+  {
+    "rId": "rId3",
+    "file": "image58.png",
+    "description": [
+      "Drought",
+      "crop failure"
+    ],
+    "slide_number": 12
+  },
+  {
+    "rId": "rId4",
+    "file": "image59.png",
+    "description": [
+      "Early recovery",
+      "shelter",
+      "repair"
+    ],
+    "slide_number": 12
+  },
+  {
+    "rId": "rId5",
+    "file": "image60.png",
+    "description": [
+      "Early warning",
+      "alarm"
+    ],
+    "slide_number": 12
+  },
+  {
+    "rId": "rId6",
+    "file": "image61.png",
+    "description": [
+      "Earthquake",
+      "destruction"
+    ],
+    "slide_number": 12
+  },
+  {
+    "rId": "rId7",
+    "file": "image62.png",
+    "description": [
+      "Ebola"
+    ],
+    "slide_number": 12
+  },
+  {
+    "rId": "rId3",
+    "file": "image63.png",
+    "description": [
+      "Education",
+      "book",
+      "training"
+    ],
+    "slide_number": 13
+  },
+  {
+    "rId": "rId4",
+    "file": "image64.png",
+    "description": [
+      "Electric car"
+    ],
+    "slide_number": 13
+  },
+  {
+    "rId": "rId5",
+    "file": "image65.png",
+    "description": [
+      "Emergency appeal",
+      "report",
+      "document"
+    ],
+    "slide_number": 13
+  },
+  {
+    "rId": "rId6",
+    "file": "image66.png",
+    "description": [
+      "Emergency health",
+      "stethoscope",
+      "medical"
+    ],
+    "slide_number": 13
+  },
+  {
+    "rId": "rId7",
+    "file": "image67.png",
+    "description": [
+      "Emergency health",
+      "medical"
+    ],
+    "slide_number": 13
+  },
+  {
+    "rId": "rId3",
+    "file": "image68.png",
+    "description": [
+      "Environmental preservation",
+      "agriculture",
+      "crop"
+    ],
+    "slide_number": 14
+  },
+  {
+    "rId": "rId4",
+    "file": "image69.png",
+    "description": [
+      "Europe"
+    ],
+    "slide_number": 14
+  },
+  {
+    "rId": "rId5",
+    "file": "image70.png",
+    "description": [
+      "Exit"
+    ],
+    "slide_number": 14
+  },
+  {
+    "rId": "rId6",
+    "file": "image71.png",
+    "description": [
+      "Extreme weather",
+      "climate change"
+    ],
+    "slide_number": 14
+  },
+  {
+    "rId": "rId7",
+    "file": "image72.png",
+    "description": [
+      "Eye",
+      "sight",
+      "visibility"
+    ],
+    "slide_number": 14
+  },
+  {
+    "rId": "rId3",
+    "file": "image73.png",
+    "description": [
+      "Family"
+    ],
+    "slide_number": 15
+  },
+  {
+    "rId": "rId4",
+    "file": "image74.png",
+    "description": [
+      "Farming",
+      "agriculture, crop"
+    ],
+    "slide_number": 15
+  },
+  {
+    "rId": "rId5",
+    "file": "image75.png",
+    "description": [
+      "Feces"
+    ],
+    "slide_number": 15
+  },
+  {
+    "rId": "rId6",
+    "file": "image76.png",
+    "description": [
+      "Field car"
+    ],
+    "slide_number": 15
+  },
+  {
+    "rId": "rId7",
+    "file": "image77.png",
+    "description": [
+      "Field hospital"
+    ],
+    "slide_number": 15
+  },
+  {
+    "rId": "rId3",
+    "file": "image78.png",
+    "description": [
+      "First aid",
+      "CPR"
+    ],
+    "slide_number": 16
+  },
+  {
+    "rId": "rId4",
+    "file": "image79.png",
+    "description": [
+      "First aid kit"
+    ],
+    "slide_number": 16
+  },
+  {
+    "rId": "rId5",
+    "file": "image80.png",
+    "description": [
+      "Floods"
+    ],
+    "slide_number": 16
+  },
+  {
+    "rId": "rId6",
+    "file": "image81.png",
+    "description": [
+      "Food and water"
+    ],
+    "slide_number": 16
+  },
+  {
+    "rId": "rId7",
+    "file": "image82.png",
+    "description": [
+      "Food and water insecurity"
+    ],
+    "slide_number": 16
+  },
+  {
+    "rId": "rId3",
+    "file": "image83.png",
+    "description": [
+      "Food storage"
+    ],
+    "slide_number": 17
+  },
+  {
+    "rId": "rId4",
+    "file": "image84.png",
+    "description": [
+      "Food"
+    ],
+    "slide_number": 17
+  },
+  {
+    "rId": "rId5",
+    "file": "image85.png",
+    "description": [
+      "Foot injury"
+    ],
+    "slide_number": 17
+  },
+  {
+    "rId": "rId6",
+    "file": "image86.png",
+    "description": [
+      "Funding coverage",
+      "data"
+    ],
+    "slide_number": 17
+  },
+  {
+    "rId": "rId7",
+    "file": "image87.png",
+    "description": [
+      "Global warming"
+    ],
+    "slide_number": 17
+  },
+  {
+    "rId": "rId3",
+    "file": "image88.png",
+    "description": [
+      "Harassment"
+    ],
+    "slide_number": 18
+  },
+  {
+    "rId": "rId4",
+    "file": "image89.png",
+    "description": [
+      "Health"
+    ],
+    "slide_number": 18
+  },
+  {
+    "rId": "rId5",
+    "file": "image90.png",
+    "description": [
+      "Heart"
+    ],
+    "slide_number": 18
+  },
+  {
+    "rId": "rId6",
+    "file": "image91.png",
+    "description": [
+      "Heat",
+      "drought"
+    ],
+    "slide_number": 18
+  },
+  {
+    "rId": "rId7",
+    "file": "image92.png",
+    "description": [
+      "Heat wave"
+    ],
+    "slide_number": 18
+  },
+  {
+    "rId": "rId3",
+    "file": "image93.png",
+    "description": [
+      "Helicopter"
+    ],
+    "slide_number": 19
+  },
+  {
+    "rId": "rId4",
+    "file": "image94.png",
+    "description": [
+      "High temperature"
+    ],
+    "slide_number": 19
+  },
+  {
+    "rId": "rId5",
+    "file": "image95.png",
+    "description": [
+      "HIV"
+    ],
+    "slide_number": 19
+  },
+  {
+    "rId": "rId6",
+    "file": "image96.png",
+    "description": [
+      "Human walking"
+    ],
+    "slide_number": 19
+  },
+  {
+    "rId": "rId7",
+    "file": "image97.png",
+    "description": [
+      "Human with reduced mobility"
+    ],
+    "slide_number": 19
+  },
+  {
+    "rId": "rId3",
+    "file": "image98.png",
+    "description": [
+      "Human"
+    ],
+    "slide_number": 20
+  },
+  {
+    "rId": "rId4",
+    "file": "image99.png",
+    "description": [
+      "Humanity",
+      "group"
+    ],
+    "slide_number": 20
+  },
+  {
+    "rId": "rId5",
+    "file": "image100.png",
+    "description": [
+      "Hurricane",
+      "cyclone. typhoon"
+    ],
+    "slide_number": 20
+  },
+  {
+    "rId": "rId6",
+    "file": "image101.png",
+    "description": [
+      "Hygiene",
+      "soap"
+    ],
+    "slide_number": 20
+  },
+  {
+    "rId": "rId7",
+    "file": "image102.png",
+    "description": [
+      "Impact"
+    ],
+    "slide_number": 20
+  },
+  {
+    "rId": "rId3",
+    "file": "image103.png",
+    "description": [
+      "Impartiality"
+    ],
+    "slide_number": 21
+  },
+  {
+    "rId": "rId4",
+    "file": "image104.png",
+    "description": [
+      "Inclusion",
+      "group"
+    ],
+    "slide_number": 21
+  },
+  {
+    "rId": "rId5",
+    "file": "image105.png",
+    "description": [
+      "Inclusion"
+    ],
+    "slide_number": 21
+  },
+  {
+    "rId": "rId6",
+    "file": "image106.png",
+    "description": [
+      "Independence"
+    ],
+    "slide_number": 21
+  },
+  {
+    "rId": "rId7",
+    "file": "image107.png",
+    "description": [
+      "Injury",
+      "injured"
+    ],
+    "slide_number": 21
+  },
+  {
+    "rId": "rId3",
+    "file": "image108.png",
+    "description": [
+      "Injury",
+      "injured",
+      "elderly"
+    ],
+    "slide_number": 22
+  },
+  {
+    "rId": "rId4",
+    "file": "image109.png",
+    "description": [
+      "Innovation",
+      "idea"
+    ],
+    "slide_number": 22
+  },
+  {
+    "rId": "rId5",
+    "file": "image110.png",
+    "description": [
+      "Insect",
+      "infestation"
+    ],
+    "slide_number": 22
+  },
+  {
+    "rId": "rId6",
+    "file": "image111.png",
+    "description": [
+      "Interview",
+      "communications"
+    ],
+    "slide_number": 22
+  },
+  {
+    "rId": "rId7",
+    "file": "image112.png",
+    "description": [
+      "Issue",
+      "problem",
+      "goal",
+      "target"
+    ],
+    "slide_number": 22
+  },
+  {
+    "rId": "rId3",
+    "file": "image113.png",
+    "description": [
+      "Landslide",
+      "mudslide"
+    ],
+    "slide_number": 23
+  },
+  {
+    "rId": "rId4",
+    "file": "image114.png",
+    "description": [
+      "Largest humanitarian network",
+      "world",
+      "global"
+    ],
+    "slide_number": 23
+  },
+  {
+    "rId": "rId5",
+    "file": "image115.png",
+    "description": [
+      "Listen",
+      "ear",
+      "hear"
+    ],
+    "slide_number": 23
+  },
+  {
+    "rId": "rId6",
+    "file": "image116.png",
+    "description": [
+      "Livelihoods"
+    ],
+    "slide_number": 23
+  },
+  {
+    "rId": "rId7",
+    "file": "image117.png",
+    "description": [
+      "Location",
+      "map",
+      "GIS"
+    ],
+    "slide_number": 23
+  },
+  {
+    "rId": "rId3",
+    "file": "image118.png",
+    "description": [
+      "Logistics"
+    ],
+    "slide_number": 24
+  },
+  {
+    "rId": "rId4",
+    "file": "image119.png",
+    "description": [
+      "Love",
+      "care"
+    ],
+    "slide_number": 24
+  },
+  {
+    "rId": "rId5",
+    "file": "image120.png",
+    "description": [
+      "Love",
+      "RCRC"
+    ],
+    "slide_number": 24
+  },
+  {
+    "rId": "rId6",
+    "file": "image121.png",
+    "description": [
+      "Low temperature"
+    ],
+    "slide_number": 24
+  },
+  {
+    "rId": "rId7",
+    "file": "image122.png",
+    "description": [
+      "Lungs"
+    ],
+    "slide_number": 24
+  },
+  {
+    "rId": "rId3",
+    "file": "image123.png",
+    "description": [
+      "Malaria",
+      "mosquito"
+    ],
+    "slide_number": 25
+  },
+  {
+    "rId": "rId4",
+    "file": "image124.png",
+    "description": [
+      "Man",
+      "male"
+    ],
+    "slide_number": 25
+  },
+  {
+    "rId": "rId5",
+    "file": "image125.png",
+    "description": [
+      "Map",
+      "IM",
+      "GIS"
+    ],
+    "slide_number": 25
+  },
+  {
+    "rId": "rId6",
+    "file": "image126.png",
+    "description": [
+      "Measles"
+    ],
+    "slide_number": 25
+  },
+  {
+    "rId": "rId7",
+    "file": "image127.png",
+    "description": [
+      "Medical aid"
+    ],
+    "slide_number": 25
+  },
+  {
+    "rId": "rId3",
+    "file": "image128.png",
+    "description": [
+      "Medication",
+      "medicine",
+      "drugs"
+    ],
+    "slide_number": 26
+  },
+  {
+    "rId": "rId4",
+    "file": "image129.png",
+    "description": [
+      "Meeting point"
+    ],
+    "slide_number": 26
+  },
+  {
+    "rId": "rId5",
+    "file": "image130.png",
+    "description": [
+      "Megaphone",
+      "warning"
+    ],
+    "slide_number": 26
+  },
+  {
+    "rId": "rId6",
+    "file": "image131.png",
+    "description": [
+      "MENA"
+    ],
+    "slide_number": 26
+  },
+  {
+    "rId": "rId7",
+    "file": "image132.png",
+    "description": [
+      "Menstrual hygiene"
+    ],
+    "slide_number": 26
+  },
+  {
+    "rId": "rId3",
+    "file": "image133.png",
+    "description": [
+      "Microscope",
+      "sciene"
+    ],
+    "slide_number": 27
+  },
+  {
+    "rId": "rId4",
+    "file": "image134.png",
+    "description": [
+      "Migration",
+      "population movement",
+      "escape"
+    ],
+    "slide_number": 27
+  },
+  {
+    "rId": "rId5",
+    "file": "image135.png",
+    "description": [
+      "Missing",
+      "search"
+    ],
+    "slide_number": 27
+  },
+  {
+    "rId": "rId6",
+    "file": "image136.png",
+    "description": [
+      "Money bag"
+    ],
+    "slide_number": 27
+  },
+  {
+    "rId": "rId7",
+    "file": "image137.png",
+    "description": [
+      "Money",
+      "cash",
+      "CVA"
+    ],
+    "slide_number": 27
+  },
+  {
+    "rId": "rId3",
+    "file": "image138.png",
+    "description": [
+      "Mute",
+      "silence"
+    ],
+    "slide_number": 28
+  },
+  {
+    "rId": "rId4",
+    "file": "image139.png",
+    "description": [
+      "Network"
+    ],
+    "slide_number": 28
+  },
+  {
+    "rId": "rId5",
+    "file": "image140.png",
+    "description": [
+      "Neutrality"
+    ],
+    "slide_number": 28
+  },
+  {
+    "rId": "rId6",
+    "file": "image141.png",
+    "description": [
+      "Non-food items",
+      "NFI",
+      "blanket"
+    ],
+    "slide_number": 28
+  },
+  {
+    "rId": "rId7",
+    "file": "image142.png",
+    "description": [
+      "Non-binary"
+    ],
+    "slide_number": 28
+  },
+  {
+    "rId": "rId3",
+    "file": "image143.png",
+    "description": [
+      "Nose",
+      "smell",
+      "breathe"
+    ],
+    "slide_number": 29
+  },
+  {
+    "rId": "rId4",
+    "file": "image144.png",
+    "description": [
+      "Nuclear",
+      "explosion"
+    ],
+    "slide_number": 29
+  },
+  {
+    "rId": "rId5",
+    "file": "image145.png",
+    "description": [
+      "Nuclear hazard"
+    ],
+    "slide_number": 29
+  },
+  {
+    "rId": "rId6",
+    "file": "image146.png",
+    "description": [
+      "Old human",
+      "elderly"
+    ],
+    "slide_number": 29
+  },
+  {
+    "rId": "rId7",
+    "file": "image147.png",
+    "description": [
+      "Participation",
+      "team",
+      "teamwork"
+    ],
+    "slide_number": 29
+  },
+  {
+    "rId": "rId3",
+    "file": "image148.png",
+    "description": [
+      "Participation",
+      "team",
+      "teamwork"
+    ],
+    "slide_number": 30
+  },
+  {
+    "rId": "rId4",
+    "file": "image149.png",
+    "description": [
+      "Partnership"
+    ],
+    "slide_number": 30
+  },
+  {
+    "rId": "rId5",
+    "file": "image150.png",
+    "description": [
+      "Phone",
+      "mobile"
+    ],
+    "slide_number": 30
+  },
+  {
+    "rId": "rId6",
+    "file": "image151.png",
+    "description": [
+      "Photo",
+      "camera",
+      "communications"
+    ],
+    "slide_number": 30
+  },
+  {
+    "rId": "rId7",
+    "file": "image152.png",
+    "description": [
+      "Plan",
+      "list",
+      "checklist"
+    ],
+    "slide_number": 30
+  },
+  {
+    "rId": "rId3",
+    "file": "image153.png",
+    "description": [
+      "Plastic water bottle"
+    ],
+    "slide_number": 31
+  },
+  {
+    "rId": "rId4",
+    "file": "image154.png",
+    "description": [
+      "Plastic",
+      "pollution"
+    ],
+    "slide_number": 31
+  },
+  {
+    "rId": "rId5",
+    "file": "image155.png",
+    "description": [
+      "PPE",
+      "personal protective equipment"
+    ],
+    "slide_number": 31
+  },
+  {
+    "rId": "rId6",
+    "file": "image156.png",
+    "description": [
+      "Pregnant human and baby",
+      "mother",
+      "pregnancy"
+    ],
+    "slide_number": 31
+  },
+  {
+    "rId": "rId7",
+    "file": "image157.png",
+    "description": [
+      "Press release",
+      "document"
+    ],
+    "slide_number": 31
+  },
+  {
+    "rId": "rId3",
+    "file": "image158.png",
+    "description": [
+      "Protection"
+    ],
+    "slide_number": 32
+  },
+  {
+    "rId": "rId4",
+    "file": "image159.png",
+    "description": [
+      "PSS",
+      "psychosocial support",
+      "mental health"
+    ],
+    "slide_number": 32
+  },
+  {
+    "rId": "rId5",
+    "file": "image160.png",
+    "description": [
+      "Radiological hazard"
+    ],
+    "slide_number": 32
+  },
+  {
+    "rId": "rId6",
+    "file": "image161.png",
+    "description": [
+      "Rapid",
+      "timely"
+    ],
+    "slide_number": 32
+  },
+  {
+    "rId": "rId7",
+    "file": "image162.png",
+    "description": [
+      "Rat"
+    ],
+    "slide_number": 32
+  },
+  {
+    "rId": "rId3",
+    "file": "image163.png",
+    "description": [
+      "Red Crescent NS"
+    ],
+    "slide_number": 33
+  },
+  {
+    "rId": "rId4",
+    "file": "image164.png",
+    "description": [
+      "Red Cross NS"
+    ],
+    "slide_number": 33
+  },
+  {
+    "rId": "rId5",
+    "file": "image165.png",
+    "description": [
+      "Rescue dog"
+    ],
+    "slide_number": 33
+  },
+  {
+    "rId": "rId6",
+    "file": "image166.png",
+    "description": [
+      "Resilience"
+    ],
+    "slide_number": 33
+  },
+  {
+    "rId": "rId7",
+    "file": "image167.png",
+    "description": [
+      "Ribbon"
+    ],
+    "slide_number": 33
+  },
+  {
+    "rId": "rId3",
+    "file": "image168.png",
+    "description": [
+      "Rising sea level"
+    ],
+    "slide_number": 34
+  },
+  {
+    "rId": "rId4",
+    "file": "image169.png",
+    "description": [
+      "Running human"
+    ],
+    "slide_number": 34
+  },
+  {
+    "rId": "rId5",
+    "file": "image170.png",
+    "description": [
+      "Safety"
+    ],
+    "slide_number": 34
+  },
+  {
+    "rId": "rId6",
+    "file": "image171.png",
+    "description": [
+      "Safety",
+      "protection"
+    ],
+    "slide_number": 34
+  },
+  {
+    "rId": "rId7",
+    "file": "image172.png",
+    "description": [
+      "Saving lives",
+      "help"
+    ],
+    "slide_number": 34
+  },
+  {
+    "rId": "rId3",
+    "file": "image173.png",
+    "description": [
+      "Sewage",
+      "pollution"
+    ],
+    "slide_number": 35
+  },
+  {
+    "rId": "rId4",
+    "file": "image174.png",
+    "description": [
+      "Share",
+      "network"
+    ],
+    "slide_number": 35
+  },
+  {
+    "rId": "rId5",
+    "file": "image175.png",
+    "description": [
+      "Shelter",
+      "tent"
+    ],
+    "slide_number": 35
+  },
+  {
+    "rId": "rId6",
+    "file": "image176.png",
+    "description": [
+      "Sign language"
+    ],
+    "slide_number": 35
+  },
+  {
+    "rId": "rId7",
+    "file": "image177.png",
+    "description": [
+      "Single parent"
+    ],
+    "slide_number": 35
+  },
+  {
+    "rId": "rId3",
+    "file": "image178.png",
+    "description": [
+      "Snowfall",
+      "winterization"
+    ],
+    "slide_number": 36
+  },
+  {
+    "rId": "rId4",
+    "file": "image179.png",
+    "description": [
+      "Social media"
+    ],
+    "slide_number": 36
+  },
+  {
+    "rId": "rId5",
+    "file": "image180.png",
+    "description": [
+      "Stomach"
+    ],
+    "slide_number": 36
+  },
+  {
+    "rId": "rId6",
+    "file": "image181.png",
+    "description": [
+      "Storm"
+    ],
+    "slide_number": 36
+  },
+  {
+    "rId": "rId7",
+    "file": "image182.png",
+    "description": [
+      "Strategy"
+    ],
+    "slide_number": 36
+  },
+  {
+    "rId": "rId3",
+    "file": "image183.png",
+    "description": [
+      "Stretcher"
+    ],
+    "slide_number": 37
+  },
+  {
+    "rId": "rId4",
+    "file": "image184.png",
+    "description": [
+      "Strong wind"
+    ],
+    "slide_number": 37
+  },
+  {
+    "rId": "rId5",
+    "file": "image185.png",
+    "description": [
+      "SURGE",
+      "deployment"
+    ],
+    "slide_number": 37
+  },
+  {
+    "rId": "rId6",
+    "file": "image186.png",
+    "description": [
+      "TB",
+      "Tuberculosis"
+    ],
+    "slide_number": 37
+  },
+  {
+    "rId": "rId7",
+    "file": "image187.png",
+    "description": [
+      "Telling",
+      "speaking",
+      "storytelling",
+      "mouth"
+    ],
+    "slide_number": 37
+  },
+  {
+    "rId": "rId3",
+    "file": "image188.png",
+    "description": [
+      "Tent",
+      "shelter"
+    ],
+    "slide_number": 38
+  },
+  {
+    "rId": "rId4",
+    "file": "image189.png",
+    "description": [
+      "Toilet"
+    ],
+    "slide_number": 38
+  },
+  {
+    "rId": "rId5",
+    "file": "image190.png",
+    "description": [
+      "Toilet"
+    ],
+    "slide_number": 38
+  },
+  {
+    "rId": "rId6",
+    "file": "image191.png",
+    "description": [
+      "Train"
+    ],
+    "slide_number": 38
+  },
+  {
+    "rId": "rId7",
+    "file": "image192.png",
+    "description": [
+      "Trash",
+      "pollution"
+    ],
+    "slide_number": 38
+  },
+  {
+    "rId": "rId3",
+    "file": "image193.png",
+    "description": [
+      "Tsunami"
+    ],
+    "slide_number": 39
+  },
+  {
+    "rId": "rId4",
+    "file": "image194.png",
+    "description": [
+      "Under table"
+    ],
+    "slide_number": 39
+  },
+  {
+    "rId": "rId5",
+    "file": "image195.png",
+    "description": [
+      "Unity"
+    ],
+    "slide_number": 39
+  },
+  {
+    "rId": "rId6",
+    "file": "image196.png",
+    "description": [
+      "Universality"
+    ],
+    "slide_number": 39
+  },
+  {
+    "rId": "rId7",
+    "file": "image197.png",
+    "description": [
+      "Vaccination",
+      "vaccine",
+      "immunization"
+    ],
+    "slide_number": 39
+  },
+  {
+    "rId": "rId3",
+    "file": "image198.png",
+    "description": [
+      "Vaccine provision"
+    ],
+    "slide_number": 40
+  },
+  {
+    "rId": "rId4",
+    "file": "image199.png",
+    "description": [
+      "Video"
+    ],
+    "slide_number": 40
+  },
+  {
+    "rId": "rId5",
+    "file": "image200.png",
+    "description": [
+      "Voice of local communities",
+      "podcast",
+      "microphone"
+    ],
+    "slide_number": 40
+  },
+  {
+    "rId": "rId6",
+    "file": "image201.png",
+    "description": [
+      "Voice recognition"
+    ],
+    "slide_number": 40
+  },
+  {
+    "rId": "rId7",
+    "file": "image202.png",
+    "description": [
+      "Volcano eruption"
+    ],
+    "slide_number": 40
+  },
+  {
+    "rId": "rId3",
+    "file": "image203.png",
+    "description": [
+      "Voluntary service",
+      "volunteer"
+    ],
+    "slide_number": 41
+  },
+  {
+    "rId": "rId4",
+    "file": "image204.png",
+    "description": [
+      "Voluntary service",
+      "volunteer"
+    ],
+    "slide_number": 41
+  },
+  {
+    "rId": "rId5",
+    "file": "image205.png",
+    "description": [
+      "Water and sanitation",
+      "WASH"
+    ],
+    "slide_number": 41
+  },
+  {
+    "rId": "rId6",
+    "file": "image206.png",
+    "description": [
+      "Water tank",
+      "jerry can"
+    ],
+    "slide_number": 41
+  },
+  {
+    "rId": "rId7",
+    "file": "image207.png",
+    "description": [
+      "Web",
+      "website",
+      "internet access"
+    ],
+    "slide_number": 41
+  },
+  {
+    "rId": "rId3",
+    "file": "image208.png",
+    "description": [
+      "Wildfire"
+    ],
+    "slide_number": 42
+  },
+  {
+    "rId": "rId4",
+    "file": "image209.png",
+    "description": [
+      "Woman",
+      "women",
+      "female"
+    ],
+    "slide_number": 42
+  },
+  {
+    "rId": "rId5",
+    "file": "image210.png",
+    "description": [
+      "Work"
+    ],
+    "slide_number": 42
+  },
+  {
+    "rId": "rId6",
+    "file": "image211.png",
+    "description": [
+      "Walking"
+    ],
+    "slide_number": 42
+  },
+  {
+    "rId": "rId3",
+    "file": "image212.png",
+    "description": [
+      "Process",
+      "checklist"
+    ],
+    "slide_number": 43
+  },
+  {
+    "rId": "rId4",
+    "file": "image213.png",
+    "description": [
+      "Process",
+      "plant",
+      "grow"
+    ],
+    "slide_number": 43
+  },
+  {
+    "rId": "rId5",
+    "file": "image214.png",
+    "description": [
+      "Resilience"
+    ],
+    "slide_number": 43
+  },
+  {
+    "rId": "rId6",
+    "file": "image215.png",
+    "description": [
+      "Forest",
+      "trees",
+      "types"
+    ],
+    "slide_number": 43
+  },
+  {
+    "rId": "rId7",
+    "file": "image216.png",
+    "description": [
+      "Question"
+    ],
+    "slide_number": 43
+  }
+]
